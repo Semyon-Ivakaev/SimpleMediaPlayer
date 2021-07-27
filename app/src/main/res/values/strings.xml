@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="video_mp4">https://images-assets.nasa.gov/video/GSFC_20100126_Nova_m10547_SuperNova/GSFC_20100126_Nova_m10547_SuperNova~orig.mp4</string>
+    <string name="video_mp3">https://storage.googleapis.com/exoplayer-test-media-0/play.mp3</string>
+</resources>
